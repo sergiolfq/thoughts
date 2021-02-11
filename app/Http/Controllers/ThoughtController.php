@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 use App\Thought;
 use Illuminate\Http\Request;
 
-class thoughtController extends Controller
+class ThoughtController extends Controller
 {
 
     public function __construct(){
